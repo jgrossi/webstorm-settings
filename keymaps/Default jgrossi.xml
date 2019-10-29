@@ -28,6 +28,9 @@
   <action id="Refresh" />
   <action id="Replace" />
   <action id="Rerun" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
   <action id="SurroundWith" />
   <action id="TodoViewGroupByShowPackages" />
   <action id="Vcs.Log.Refresh" />
