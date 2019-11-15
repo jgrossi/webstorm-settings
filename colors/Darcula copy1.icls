@@ -4,10 +4,10 @@
     <property name="created">2019-11-14T15:50:13</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2019-11-14T15:50:23</property>
+    <property name="modified">2019-11-15T16:58:33</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
+  <option name="LINE_SPACING" value="2.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
