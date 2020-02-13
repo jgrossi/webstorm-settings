@@ -9,6 +9,9 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+  </action>
   <action id="Refresh" />
   <action id="Replace" />
   <action id="Rerun" />
