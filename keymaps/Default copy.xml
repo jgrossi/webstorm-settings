@@ -18,6 +18,9 @@
   <action id="Refresh" />
   <action id="Replace" />
   <action id="Rerun" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
   <action id="Vcs.Log.Refresh" />
   <action id="hg4idea.QRefresh" />
 </keymap>
