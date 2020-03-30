@@ -4,10 +4,10 @@
     <property name="created">2020-01-22T11:37:30</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2020-01-22T11:47:27</property>
+    <property name="modified">2020-03-27T22:41:38</property>
     <property name="originalScheme">_@user_Dracula</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.5" />
+  <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
@@ -872,14 +872,12 @@
     <option name="JS.EXPORTED.VARIABLE">
       <value>
         <option name="FOREGROUND" value="bd93f9" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="bd93f9" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
@@ -1576,7 +1574,6 @@
     <option name="TS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="bd93f9" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="TS.TYPE_PARAMETER">
