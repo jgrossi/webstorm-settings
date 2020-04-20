@@ -4,10 +4,10 @@
     <property name="created">2019-09-11T15:15:55</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.1.0.0</property>
-    <property name="modified">2020-03-11T13:54:22</property>
+    <property name="modified">2020-04-20T10:43:53</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.15" />
+  <option name="LINE_SPACING" value="1.25" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Cousine" />
 </scheme>
