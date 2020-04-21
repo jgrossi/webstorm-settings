@@ -4,12 +4,12 @@
     <property name="created">2019-05-06T16:14:18</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-04-15T12:19:07</property>
+    <property name="modified">2020-04-21T14:19:26</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.3" />
+  <option name="LINE_SPACING" value="1.25" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="EDITOR_FONT_NAME" value="Cousine" />
   <option name="EDITOR_LIGATURES" value="true" />
   <attributes>
     <option name="JS.GLOBAL_VARIABLE">
